@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Gillsadhupriyank/Gillsadhupriyank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Priyank  
 
-Here are some ideas to get you started:
+🎓 M.S. in Computer Science Engineering 
+💡 Focused on building intelligent systems, cleaning chaos out of data, and turning logic into impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack  
+Python • SQL • Pandas • NumPy • Scikit-learn • Power BI • Tableau • Java • HTML/CSS • React • Git • ETL Pipelines  
+
+---
+
+### 📬 Connect with Me  
+
+<a href="https://www.linkedin.com/in/gill-sadhu-priyank-k-8a2a13354/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="gillpriyank955@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
+</a>
+
+---
+
+![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank95535&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyank95535&layout=compact&theme=radical)
