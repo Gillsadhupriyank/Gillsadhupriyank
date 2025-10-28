@@ -24,5 +24,5 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Power BI • Tableau �
 
 ---
 
-![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank95535&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyank95535&layout=compact&theme=radical)
+![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gillsadhupriyank&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gillsadhupriyank&layout=compact&theme=radical)
