@@ -22,7 +22,3 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Power BI • Tableau �
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
 </a>
 
----
-
-![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gillsadhupriyank&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gillsadhupriyank&layout=compact&theme=radical)
